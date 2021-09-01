@@ -1,0 +1,4 @@
+[first-hostgroup]
+servera.lab.example.com
+[second-hostgroup]
+serverb.lab.example.com
